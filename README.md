@@ -3,7 +3,7 @@ A Python script for generating visualizations (side-view) of 2D material heteros
 
 A versatile Python script for generating high-quality, publication-ready visualizations of 2D material heterostructures. This tool, built with Matplotlib and NumPy, allows for detailed customization of atomic layers, including the simulation of bubbles, various alloy configurations, and layer deflation effects.
 
-![Summary of Heterostructure Plotter Capabilities]([https://raw.githubusercontent.com/nikodemsokolowski/2D-material-heterostructure-plotter-/blob/main/fig1_jpeg.jpg](https://github.com/nikodemsokolowski/2D-material-heterostructure-plotter-/blob/main/fig1_jpeg.jpg))
+![Summary of Heterostructure Plotter Capabilities](https://raw.githubusercontent.com/nikodemsokolowski/2D-material-heterostructure-plotter-/main/fig1_jpeg.jpg)
 *A summary of the various heterostructure configurations that can be generated with this script.*
 
 ---
